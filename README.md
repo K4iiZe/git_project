@@ -1,4 +1,4 @@
-https://doc.wiprog.fr/documents/logo_git.svg
+https://doc.wiprog.fr/documents/logo_git.png
 # GitHub TP - Emploi du temps
 
 ## Commencer
