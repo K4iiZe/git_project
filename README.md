@@ -1,8 +1,8 @@
 # GitHub TP GitHub
 
-## Getting Started
+## Commencer
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Nous avons comme projet de créer un repository GitHub avec nos cours de la semaine.
 
 ### Prerequisites
 
