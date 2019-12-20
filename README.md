@@ -10,6 +10,8 @@ Un cerveau
 
 Cmder.exe
 
+Un compte GitHub
+
 Avoir suivi le cour de Mr Maret
 
 ## Commande Git
