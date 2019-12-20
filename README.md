@@ -12,10 +12,9 @@ Cmder.exe
 
 Avoir suivi le cour de Mr Maret
 
-```
-
 ## Commande Git
 
+```
 glone git [URL]
 git add
 git checkout
