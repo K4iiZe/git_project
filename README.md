@@ -32,7 +32,7 @@ git status
 * **Aurélien Loyer** - *Lundi*
 * **Thomas Salvignol** - *Vendredi*
 
-## License
+## Licence
 
 Open-Source <3
 
