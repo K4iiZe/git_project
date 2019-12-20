@@ -1,4 +1,4 @@
-# GitHub TP GitHub
+# GitHub TP - Emploi du temps
 
 ## Commencer
 
